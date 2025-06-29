@@ -2,6 +2,8 @@
 define RHODA = Character("RHODA")
 define JUDITH = Character("JUDITH")
 
+image Judith embarassed = "sprites/Judith_lacemaker_embarassed.png"
+
 label splashscreen:
 
     show text "BloadStained Kiss Team" with fade

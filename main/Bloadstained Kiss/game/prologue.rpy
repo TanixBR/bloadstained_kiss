@@ -1,4 +1,6 @@
 label prologue:
+
+    show Judith embarassed at left
     
     #bg: dark alley way#
     

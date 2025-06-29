@@ -1,4 +1,8 @@
-﻿label splashscreen:
+﻿define STREETWALKER = Character("STREETWALKER")
+define RHODA = Character("RHODA")
+define JUDITH = Character("JUDITH")
+
+label splashscreen:
 
     show text "BloadStained Kiss Team" with fade
 

@@ -1,8 +1,8 @@
 label prologue:
     
-    "#bg: dark alley way#"
+    #bg: dark alley way#
     
-    "#sfx: two pairs of footsteps, overlapping#"
+    #sfx: two pairs of footsteps, overlapping#
     
     "I knew I was being followed, but I couldn’t do anything but keep walking. "
     
@@ -12,29 +12,29 @@ label prologue:
     
     "My monotonous peace, however troublesome it may seem to me, could end right now if I’m not careful. "
     
-    "#sfx: footsteps getting faster, another increasing in speed behind it#"
+    #sfx: footsteps getting faster, another increasing in speed behind it#
     
     "The back streets are easy to get lost in, yet this stranger followed me without issue. Turning where I was going to turn, almost like he was predicting my every step. Did he grow up here, too? Or was he just that persistent?"
     
-    "#sfx: running, its become a chase#"
+    #sfx: running, its become a chase#
     
     "I didn’t care how tired I thought I felt. I could scream, but that would only slow me down. I needed to keep going. Just one more side street. One more measly step toward a front door, and this man would be committing a crime. "
     
-    "#VO: heavy breathing#"
+    #VO: heavy breathing#
     
-    "#sfx: footsteps getting closer#"
+    #sfx: footsteps getting closer#
     
     "My lungs were on fire. My heart pounded in my chest."
     
     "What was once so close to me seemed impossibly far now. I wouldn’t die here. I wouldn’t end up like Papa---"
     
-    "#sprite: Judith_pre-meeting enters and runs to the end of the screen.#"
+    #sprite: Judith_pre-meeting enters and runs to the end of the screen.#
     
     "I was such a fool. I turned the wrong way, and was stuck somewhere I didn’t recognize. I could move, but…"
     
-    "#sprite: Streetwalker enters, Judith is backed into the edge of the screen, trapped.#"
+    #sprite: Streetwalker enters, Judith is backed into the edge of the screen, trapped.#
     
-    "STREETWALKER: “‘Ello, love.”"
+    STREETWALKER "“‘Ello, love.”"
     
     "I hesitated to speak. I had never seen this…man before in my life. Not around the textile factory, not around the dosshouse, not even in the pub where papa used to frequent. He was a complete and total stranger. "
     
@@ -42,93 +42,93 @@ label prologue:
     
     "“Right. Here’s how this about to happen, yeah? You just stand there…”"
     
-    "#sprite: Streetwalker steps closer#"
+    #sprite: Streetwalker steps closer#
     
-    "STREETWALKER: “And I just come over to you…”"
+    STREETWALKER "“And I just come over to you…”"
     
-    "#and closer#"
+    #and closer#
     
-    "STREETWALKER: “You lean back, lift up your hair…”"
+    STREETWALKER "“You lean back, lift up your hair…”"
     
-    "#and closer, until…#"
+    #and closer, until…#
     
-    "STREETWALKER: “Think of somewhere nice and cozy-like. Yeah? Focus on it…”"
+    STREETWALKER "“Think of somewhere nice and cozy-like. Yeah? Focus on it…”"
     
-    "#CG of Streetwalker’s face close to Judith’s#"
+    #CG of Streetwalker’s face close to Judith’s#
     
-    "STREETWALKER: “Because that’s the last thing you’ll ever see, love.”"
+    STREETWALKER "“Because that’s the last thing you’ll ever see, love.”"
     
     "Unlike before, now I wanted to scream. I wanted to cry out to Papa, to God, to anything that could hear me. But I couldn’t."
     
     "I couldn’t breathe at all. "
     
-    "#Screen goes black#"
+    #Screen goes black#
     
-    "RHODA: “God is a righteous judge…”"
+    RHODA "“God is a righteous judge…”"
     
-    "#sfx: knife slash#"
+    #sfx: knife slash#
     
-    "#Screen is normal again.#"
+    #Screen is normal again.#
     
-    "#sprite: Rhoda_hunter is standing on the opposite side of the screen. Sprite: Streetwalker visibly shakes#"
+    #sprite: Rhoda_hunter is standing on the opposite side of the screen. Sprite: Streetwalker visibly shakes#
     
-    "#sfx: sizzle#"
+    #sfx: sizzle#
     
-    "STREETWALKER: “Yeaugh!”"
+    STREETWALKER "“Yeaugh!”"
     
-    "RHODA: “...and a God who feels indignation every day. Psalm 7:11.”"
+    RHODA "“...and a God who feels indignation every day. Psalm 7:11.”"
     
     "In a flash, my fate changed forever. A woman in a scarlet jacket and a wide, white skirt had cut through the vagrant’s fingers!"
     
-    "STREETWALKER: “You bloody hunters…you’re all the same!”"
+    STREETWALKER "“You bloody hunters…you’re all the same!”"
     
-    "RHODA: “And pray tell, lost soul, whatever do you mean?”"
+    RHODA "“And pray tell, lost soul, whatever do you mean?”"
     
-    "#sfx: knife slash#"
+    #sfx: knife slash#
     
-    "#sfx: sizzle#"
+    #sfx: sizzle#
     
-    "STREETWALKER: “Urgh! My hand!”"
+    STREETWALKER "“Urgh! My hand!”"
     
-    "RHODA: “Do you mean our devotion to a greater power, to the safety of our fellow man?”"
+    RHODA "“Do you mean our devotion to a greater power, to the safety of our fellow man?”"
     
-    "#sfx: knife slash#"
+    #sfx: knife slash#
     
-    "#sfx: sizzle#"
+    #sfx: sizzle#
     
-    "RHODA: “Or our calculating minds, able to stalk a creature of the night without a sound?”"
+    RHODA "“Or our calculating minds, able to stalk a creature of the night without a sound?”"
     
-    "#sfx: knife slash#"
+    #sfx: knife slash#
     
-    "#sfx: thud#"
+    #sfx: thud#
     
-    "RHODA: “Or maybe it’s something simpler than that…”"
+    RHODA "“Or maybe it’s something simpler than that…”"
     
-    "#CG of Rhoda standing before the streetwalker, now pinned against the wall just like Judith. Her knife close to his neck#"
+    #CG of Rhoda standing before the streetwalker, now pinned against the wall just like Judith. Her knife close to his neck#
     
-    "#sfx: knife sharpen#"
+    #sfx: knife sharpen#
     
-    "RHODA: “...like finally getting what you deserve, and not realizing it until death stares at you. Right. In. The. Face.”"
+    RHODA "“...like finally getting what you deserve, and not realizing it until death stares at you. Right. In. The. Face.”"
     
-    "STREETWALKER: “Please, love. Can’t you find it in your heart to let a Whitechapel chap like me’self go?”"
+    STREETWALKER "“Please, love. Can’t you find it in your heart to let a Whitechapel chap like me’self go?”"
     
-    "RHODA: “Whitechapel, you say?”"
+    RHODA "“Whitechapel, you say?”"
     
-    "STREETWALKER: “Yes! You know it well?”"
+    STREETWALKER "“Yes! You know it well?”"
     
-    "RHODA: “Yes.”"
+    RHODA "“Yes.”"
     
-    "#screen goes to black#"
+    #screen goes to black#
     
-    "#sfx: knife slash#"
+    #sfx: knife slash#
     
-    "#VO: Scream#"
+    #VO: Scream#
     
-    "#sfx: sizzle#"
+    #sfx: sizzle#
     
-    "RHODA: “I’m not very fond of Whitechapel.”"
+    RHODA "“I’m not very fond of Whitechapel.”"
     
-    "#back in the alley. Rhoda_hunter stands in front of Judith_pre-meeting in the alley#"
+    #back in the alley. Rhoda_hunter stands in front of Judith_pre-meeting in the alley#
     
     "In that moment, my pursuer became ash. The moment his neck was cut, his skin turned a sickening gray as it fell to the ground in a sandy pile. This…woman somehow did this. Killed them in a way that made sure that whatever they were, they weren’t coming back. "
     
@@ -138,65 +138,65 @@ label prologue:
     
     "It wasn’t out of fear, though that certainly was part of it. It was shock. This was a lady, her eyes as soft but cold as the noblewomen who frequent the square. And yet her eyes were stained with tears. As if this whole ordeal was painful for her."
     
-    "RHODA: “Are you alright?”"
+    RHODA "“Are you alright?”"
     
     "And somehow, I’m able to move again. "
     
-    "JUDITH: “Yes! I mean, thank you madame. Truly, I cannot thank you enough.”"
+    JUDITH "“Yes! I mean, thank you madame. Truly, I cannot thank you enough.”"
     
-    "RHODA: “You can thank me by keeping a rosary by your side and forgetting this incident ever happened. For your own safety.”"
+    RHODA "“You can thank me by keeping a rosary by your side and forgetting this incident ever happened. For your own safety.”"
     
     "She started off in the opposite direction, not even a simple farewell. Just a warning and the hope I’ll understand."
     
     "But I don’t."
     
-    "#sfx: running#"
+    #sfx: running#
     
-    "#The sprites switch sides of the screen.#"
+    #The sprites switch sides of the screen.#
     
-    "JUDITH: Wait!"
+    JUDITH "Wait!"
     
-    "RHODA: I told you, it’s for your own good!"
+    RHODA "I told you, it’s for your own good!"
     
-    "JUDITH: How can I forget what I’ve seen? Forget you? Even if I tell the world and they don’t believe me, those things might find me again!"
+    JUDITH "How can I forget what I’ve seen? Forget you? Even if I tell the world and they don’t believe me, those things might find me again!"
     
-    "RHODA: And that’s what the rosary is for. I suggest you keep to your place, and I’ll keep to mine. "
+    RHODA "And that’s what the rosary is for. I suggest you keep to your place, and I’ll keep to mine. "
     
-    "JUDITH: My place is a dosshouse! I have no family of my own, I have no friends to my name, I am alone in this world! And my world almost ended just now, but you saved me. "
+    JUDITH "My place is a dosshouse! I have no family of my own, I have no friends to my name, I am alone in this world! And my world almost ended just now, but you saved me. "
     
-    "RHODA: It is a service to mankind. Nothing more. "
+    RHODA "It is a service to mankind. Nothing more. "
     
-    "JUDITH: Then teach me that service!"
+    JUDITH "Then teach me that service!"
     
-    "RHODA: I’m sorry?"
+    RHODA "I’m sorry?"
     
-    "JUDITH: I can’t let someone just save my life and not give something in return! Even if it isn’t to you, I just wish to give to the world! Keep them safe like you did me. You…saved me. "
+    JUDITH "I can’t let someone just save my life and not give something in return! Even if it isn’t to you, I just wish to give to the world! Keep them safe like you did me. You…saved me. "
     
     "She lowered her head and let out a sigh. "
     
-    "RHODA: This is not work for those with something to lose. "
+    RHODA "This is not work for those with something to lose. "
     
-    "JUDITH: All I have to lose is room and factory work. My mother passed when I was young, and my father passed only a year ago. I’m on my own. I have nothing to my name. And after almost losing my own life, I finally see something to live for. "
+    JUDITH "All I have to lose is room and factory work. My mother passed when I was young, and my father passed only a year ago. I’m on my own. I have nothing to my name. And after almost losing my own life, I finally see something to live for. "
     
-    "RHODA: What? A path paved in blood? "
+    RHODA "What? A path paved in blood? "
     
-    "JUDITH: And a noble lady. "
+    JUDITH "And a noble lady. "
     
     "The woman was caught off-guard. Annoyed, yet intrigued. I had not known this woman for more than mere moments, yet I was determined to prove myself to her. To become her, in any way possible. "
     
     "Perhaps then, I wouldn’t end up like Papa. "
     
-    "RHODA: There is no turning back, girl. The only way out is the reaper."
+    RHODA "There is no turning back, girl. The only way out is the reaper."
     
-    "JUDITH: And when I see the reaper, I’ll be ready. "
+    JUDITH "And when I see the reaper, I’ll be ready. "
     
     "She scoffed, then smiled. "
     
-    "RHODA: I am Baroness Rhoda Hawthorne. And you?"
+    RHODA "I am Baroness Rhoda Hawthorne. And you?"
     
-    "JUDITH: Judith Taylor. "
+    JUDITH "Judith Taylor. "
     
-    "RHODA: Well Miss Taylor, are you coming with me?"
+    RHODA "Well Miss Taylor, are you coming with me?"
     
     "And so, I never returned to the dosshouse. I never returned to that side of town again. I went straight to Lady Hawthorne’s estate, and never looked back. My life was now that of a slayer’s, and I would do anything to prove I’m worthy of Lady Hawthorne’s trust. "
     

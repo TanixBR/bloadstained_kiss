@@ -1,6 +1,6 @@
 label prologue:
 
-    show Judith embarassed at left
+    show Judith worried at right
     
     #bg: dark alley way#
     
@@ -35,6 +35,12 @@ label prologue:
     "I was such a fool. I turned the wrong way, and was stuck somewhere I didn’t recognize. I could move, but…"
     
     #sprite: Streetwalker enters, Judith is backed into the edge of the screen, trapped.#
+
+    show Streetwalker smirk at left with fade:
+        anchor (0.5, 0.5) subpixel True 
+        xzoom 1.0 yzoom 1.0
+        ease 0.39 xzoom 1.0 yzoom 1.0 
+        
     
     STREETWALKER "“‘Ello, love.”"
     
@@ -45,10 +51,29 @@ label prologue:
     "“Right. Here’s how this about to happen, yeah? You just stand there…”"
     
     #sprite: Streetwalker steps closer#
+
+    show Streetwalker smirk at left with fade:
+        anchor (0.5, 0.5)  subpixel True 
+        xzoom 1.0 yzoom 1.0
+        ease 0.39 xzoom 1.5 yzoom 1.5
+        
     
     STREETWALKER "“And I just come over to you…”"
+
+    show Judith worried at shake
     
     #and closer#
+
+    pause 1.0
+
+    show Streetwalker smirk at left with fade:
+        anchor (0.5, 0.5)  subpixel True 
+        xzoom 1.0 yzoom 1.0
+        ease 0.39 xzoom 2.0 yzoom 2.0
+
+    pause 1.0
+
+    show Judith worried at shake
     
     STREETWALKER "“You lean back, lift up your hair…”"
     
